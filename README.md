@@ -1,38 +1,22 @@
-🕒 Pomodoro Timer with Sound
-Temporizador Pomodoro con Sonido
+🕒 Temporizador Pomodoro con Sonido
+- Un sencillo temporizador Pomodoro en consola, escrito en Python. Utiliza alertas sonoras entre sesiones de trabajo y descanso para ayudarte a mantenerte enfocado y productivo.
 
-A simple console-based Pomodoro timer written in Python. It uses sound alerts between work and break sessions, helping you stay focused and productive.
-Un sencillo temporizador Pomodoro en consola, escrito en Python. Usa alertas sonoras entre sesiones de trabajo y descanso para ayudarte a mantenerte enfocado y productivo.
+🚀 Características
+- Sesiones de trabajo de 25 minutos y descansos de 5 minutos (ajustables)
+- Alertas de sonido usando winsound después de cada sesión
+- Ciclos infinitos de Pomodoro
+- Visualización limpia y simple en la consola
 
-🚀 Features | Características
-25-minute work sessions and 5-minute breaks (adjustable)
-Sesiones de trabajo de 25 minutos y descansos de 5 (ajustable)
+🧠 Ideal para
+- Estudiar o trabajar con la técnica Pomodoro
+- Practicar Python básico
+- Aprender sobre time.sleep() y winsound.Beep()
 
-Sound alerts using winsound after each session
-Alertas de sonido usando winsound después de cada sesión
+📦 Requisitos
+- Sistema operativo Windows (para winsound)
+- Python 3
 
-Infinite loop of Pomodoro cycles
-Ciclos infinitos de Pomodoro
-
-Simple and clean CLI display
-Visualización limpia y simple en consola
-
-🧠 Ideal For | Ideal para
-Studying or working with the Pomodoro technique
-Estudiar o trabajar con la técnica Pomodoro
-
-Practicing basic Python
-Practicar Python básico
-
-Learning about time.sleep() and winsound.Beep()
-Aprender sobre time.sleep() y winsound.Beep()
-
-📦 Requirements | Requisitos
-Windows OS (for winsound)
-
-Python 3
-
-Usage | Uso
-python pomodoro.py
-⏳ By default, it runs in infinite cycles. Stop it anytime with Ctrl + C.
+▶️ Uso
+- python pomodoro.py
+  
 ⏳ Por defecto, se ejecuta en ciclos infinitos. Puedes detenerlo con Ctrl + C.
